@@ -1,0 +1,12 @@
+{
+  "modules" : { 
+    "sudo"  : {
+      "description": "S.U.D.O, Sarah Users Do Operation, le clin d'oeil aux linuxiens",
+      "version": "1.1",
+	  "Catégorie": "Speech et keycombo",
+	  "Remarque": "pour naviguer, utilisez le plugin control",
+	  "Inspiration ": "Basé sur le petit plugin exec avec des commandes systèmes",
+	  "Auteur ": "Ted Kent"
+    }
+  }
+}
